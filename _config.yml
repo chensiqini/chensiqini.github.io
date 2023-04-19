@@ -83,11 +83,11 @@ author:
   name             : "陈锶奇"
   avatar           : "profile.png"
   bio              : " "
-  location         : "Location"
+  location         : "Location: 南京"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  email            : "19200122@njnu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
